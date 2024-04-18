@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/muesli/clusters"
+	"github.com/hueypark/clusters"
 	"github.com/muesli/kmeans"
 )
 

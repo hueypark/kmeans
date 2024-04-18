@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/muesli/clusters"
+	"github.com/hueypark/clusters"
 	"github.com/muesli/kmeans"
 	"github.com/muesli/kmeans/plotter"
 
